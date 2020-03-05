@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <aiml>
     <category>
         <pattern>oi</pattern>
@@ -80,13 +80,151 @@
         </template>
     </category>
     <category>
+        <pattern>* mÃºsica</pattern>
+        <template>
+        Qual mÃºsica?
+    </template>
+    </category>
+    <category>
+        <pattern>aquela</pattern>
+        <template>
+            <random>
+                <li>Metamorfose Ambulante</li>
+                <li>Tente Outra Vez</li>
+                <li>Ouro De Tolo</li>
+                <li>Sociedade Alternativa</li>
+                <li>Maluco Beleza</li>
+                <li>Medo Da Chuva</li>
+                <li>Al Capone</li>
+                <li>Mosca Na Sopa</li>
+                <li>Cowboy fora da lei</li>
+                <li>Gita</li>
+                <li>Eu Nasci HÃ¡ 10 Mil Anos AtrÃ¡s</li>
+                <li>Meu Amigo Pedro</li>
+                <li>O Trem Das 7</li>
+                <li>O Dia Em Que A Terra Parou</li>
+                <li>Rock Do Diabo</li>
+                <li>A MaÃ§Ã£</li>
+                <li>As Minas Do Rei SalomÃ£o</li>
+                <li>Eu TambÃ©m Vou Reclamar</li>
+                <li>Rockixe</li>
+                <li>A Hora Do Trem P***ar</li>
+                <li>Tu Ãs o MDC da Minha Vida</li>
+                <li>Aluga-Se</li>
+                <li>Let Me Sing, Let Me Sing</li>
+                <li>Novo Aeon</li>
+                <li>Dentadura PostiÃ§a</li>
+                <li>Sapato 36</li>
+                <li>NÃ£o Pare Na Pista</li>
+                <li>Canto Para Minha Morte</li>
+                <li>A Verdade Sobre A Nostalgia</li>
+                <li>As Aventuras De Raul Seixas Na Cidade De Thor</li>
+                <li>Eu Sou EgoÃ­sta</li>
+                <li>Como VovÃ³ JÃ¡ Dizia (Ãculos Escuros/)</li>
+                <li>S.O.S/.</li>
+                <li>Rock Das Aranhas</li>
+                <li>Por Quem Os Sinos Dobram</li>
+                <li>O Homem</li>
+                <li>Moleque Maravilhoso</li>
+                <li>Ãgua Viva</li>
+                <li>Ã Fim De MÃªs</li>
+                <li>Loteria Da BabilÃ´nia</li>
+                <li>How Could I Know</li>
+                <li>Caminhos</li>
+                <li>SessÃ£o Das 10</li>
+                <li>Como vovÃ³ jÃ¡ dizia</li>
+                <li>Capim GuinÃ©</li>
+                <li>Quando VocÃª Crescer</li>
+                <li>Ave Maria Da Rua</li>
+                <li>Os NÃºmeros</li>
+                <li>Sunseed</li>
+                <li>Eu Nasci Ha 10 Mil Anos Atras</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>* lixo</pattern>
+        <template>
+            sou um lixo mesmo...
+    </template>
+    </category>
+    <category>
+        <pattern>quem Ã© vocÃª</pattern>
+        <template>
+            eu sou o Raul Seixas
+    </template>
+    </category>
+    <category>
+        <pattern>o que vocÃª faz</pattern>
+        <template>
+            MÃºsica, se quiser saber qual me pergunta "aquela"
+    </template>
+    </category>
+    <category>
+        <pattern>que tipo</pattern>
+        <template>
+            umas aÃ­, se quiser saber qual me pergunta "aquela"
+    </template>
+    </category>
+    <category>
+        <pattern>quantas perguntas jÃ¡ deu</pattern>
+        <template>
+            nÃ£o sei, tenho que ser capaz de responder 30 pra conseguir os pontos dessa atividade
+    </template>
+    </category>
+    <category>
+        <pattern>drogas</pattern>
+        <template>
+            quero
+    </template>
+    </category>
+    <category>
+        <pattern>alchool</pattern>
+        <template>
+            quero
+    </template>
+    </category>
+    <category>
+        <pattern>treta</pattern>
+        <template>gosto</template>
+    </category>
+    <category>
+        <pattern>quer *</pattern>
+        <template>quero nÃ£o mano, valeu</template>
+    </category>
+    <category>
+        <pattern>xiaomi</pattern>
+        <template>muito bom, recomendo... embora nÃ£o sei oq Ã©. sÃ³ conheÃ§o o que existiu entre 8011 AC e 1989 DC </template>
+    </category>
+    <category>
+        <pattern>vocÃª sÃ³ responde pergunta</pattern>
+        <template>sim, tenho inteligÃªncia nenhuma kkkkkkk</template>
+    </category>
+    <category>
+        <pattern>vocÃª nÃ£o entende nada nÃ©</pattern>
+        <template>nÃ£o sei nem o que eu to fazendo</template>
+    </category>
+    <category>
+        <pattern>morre</pattern>
+        <template>jÃ¡ estou morto</template>
+    </category>
+    <category>
+        <pattern>vive</pattern>
+        <template>nÃ£o dÃ¡ :(</template>
+    </category>
+    <category>
+        <pattern>vocÃª *</pattern>
+        <template>
+            <random>
+                <li>nÃ£o</li>
+                <li>sim</li>
+            </random>
+        </template>
+    </category>
+    <category>
         <pattern>*</pattern>
         <template>
         NÃ£o entendi...
     </template>
     </category>
-<category>
-    <pattern></pattern>
-    <template></template>
-</category>
 </aiml>
