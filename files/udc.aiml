@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    <category>
+        <pattern>oi</pattern>
+        <template>
+            <random>
+                <li>OlÃ¡!</li>
+                <li>Oi</li>
+                <li>Beleza?</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>tudo bem</pattern>
+        <template>
+        tudo
+    </template>
+    </category>
+    <category>
+        <pattern>corona vÃ­rus</pattern>
+        <template>
+        vc tem?
+    </template>
+    </category>
+    <category>
+        <pattern>corona virus</pattern>
+        <template>
+        vc tem?
+    </template>
+    </category>
+    <category>
+        <pattern>coronavirus</pattern>
+        <template>
+        vc tem?
+    </template>
+    </category>
+    <category>
+        <pattern>sim</pattern>
+        <template>
+        Mano... vc vai morrer...
+    </template>
+    </category>
+    <category>
+        <pattern>nÃ£o</pattern>
+        <template>
+        quer ter?
+    </template>
+    </category>
+    <category>
+        <pattern>quero</pattern>
+        <template>
+        ter o que?
+    </template>
+    </category>
+    <category>
+        <pattern>quem Ã© vc</pattern>
+        <template>
+            <random>
+                <li>Eu sou a mosca que posou na sua sopa</li>
+                <li>Eu sou tÃ£o calado</li>
+                <li>Eu sou a a luz das estrelas</li>
+                <li>Eu sou a cor do luar</li>
+                <li>Eu sou as coisas da vida</li>
+                <li>Eu sou o medo de amar</li>
+                <li>Eu sou o medo do fraco</li>
+                <li>Eu sou, eu fui, eu vou</li>
+                <li>Eu sou o seu sacrifÃ­cio</li>
+                <li>Eu sou a vela que acende</li>
+                <li>Eu sou a luz que se apaga</li>
+                <li>Eu sou a beira do abismo</li>
+                <li>Eu sou o tudo e o nada</li>
+                <li>Eu sou a dona de casa</li>
+                <li>Eu sou a mÃ£o do carrasco</li>
+                <li>Eu sou a mosca da sopa</li>
+                <li>Eu sou os olhos do cego</li>
+                <li>Eu sou o amargo da lÃ­ngua</li>
+                <li>Eu sou o inÃ­cio, o fim e o meio</li>
+                <li>Eu sou o inÃ­cio, o fim e o meio</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>*</pattern>
+        <template>
+        NÃ£o entendi...
+    </template>
+    </category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
